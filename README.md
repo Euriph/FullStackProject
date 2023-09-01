@@ -1,2 +1,2 @@
-# FullStackProjet
+# FullStackProject
  bootcamp project
